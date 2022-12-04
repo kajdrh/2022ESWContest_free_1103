@@ -13,7 +13,7 @@
 > 
 > CMakeLists.txt 파일에 Line:14에 경로를 맞춰주어야한다.
 > 
-> Qt는 socketclient.h에서 Line: 18에 IP를 Jetson Nano의 IP로 수정해야한다.
+> Qt_Final는 socketclient.h에서 Line: 18에 IP를 Jetson Nano의 IP로 수정해야한다.
 > 
 
 ![화면 캡처 2022-09-15 200938](https://user-images.githubusercontent.com/102636954/190389213-c3578d03-5c9e-411d-9065-a8ffede634c3.png)
